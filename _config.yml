@@ -18,21 +18,21 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-# See: https://disqus.com/
-disqus_username: disqus_username
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: formspree_form_id
+email: saidalifaou@outlook.com
+# # See: 
+# disqus_username: disqus_username
+# # Contact Form Setting
+# # See: https://formspree.io/
+# formspree_form_id: formspree_form_id
 
 
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: Mfaouzia
-# facebook_username: facebook_username
+facebook_username: mroivili.faouzia.2
 # twitter_username: twitter_username
 instagram_username: faou_fahad
-# linkedin_username: linkedin_username
+linkedin_username: mroivili-faouzia-43ab56164
 # medium_username: medium_username
 
 
@@ -104,4 +104,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+# version: v3.1.2
