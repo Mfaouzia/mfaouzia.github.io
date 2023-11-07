@@ -6,9 +6,9 @@ subtitle: 'Embark on a Journey of Learning, Growth, and Opportunity'
 description: >-
  At our website, we invite you to explore a world of knowledge, personal development, and scholarship opportunities. We're here to help you on your path to success, whether you're looking to enhance your skills, achieve academic excellence, or secure financial aid. Join us on this exciting journey of discovery and self-improvement. Welcome aboard!
 image: >-
-  https://drive.google.com/file/d/1dRqrTtZtCoiFizlOsnBFB6vfYRrCEKW6/view?usp=drive_link
+ https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
-  https://drive.google.com/file/d/1dRqrTtZtCoiFizlOsnBFB6vfYRrCEKW6/view?usp=drive_link
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
 tags:
   - welcome
