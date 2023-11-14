@@ -1,8 +1,8 @@
 ---
-date: 2023-10-20T11🕧.000Z
+date: 2023-11-13T11🕧.000Z
 layout: post
 title: Welcome to Our Knowledge Oasis
-subtitle: 'Embark on a Journey of Learning, Growth, and Opportunity'
+subtitle: 'Learn, grow, and discover new opportunities with us'
 description: >-
  At our website, we invite you to explore a world of knowledge, personal development, and scholarship opportunities. We're here to help you on your path to success, whether you're looking to enhance your skills, achieve academic excellence, or secure financial aid. Join us on this exciting journey of discovery and self-improvement. Welcome aboard!
 image: >-
