@@ -17,23 +17,21 @@ tags:
 author: Mfaouzia
 paginate: true
 ---
-# Hello and welcome! 
-
-## Hey Friends!
-Super excited to have you here at my new blog, "Tech & Wisdom." It’s like a little corner of the internet where I chat about life lessons, the cool stuff I've learned in computer science, and my adventures with Chinese scholarships.
+# Hey Friends!
+Super excited to have you here at my new blog, 'Tech & Wisdom'. It’s like a little corner of the internet where I chat about life lessons, the cool stuff I've learned in computer science, and my adventures with Chinese scholarships.
 
 ## What's Cooking in the Blog:
 
-## 1. Growing Up and Glowing Up: 
+### 1. Growing Up and Glowing Up: 
 Life’s one big, wild ride, right? I'm here to share my ups and downs, and how to keep smiling when the going gets tough.
 
-## 2. Real Talk on Life Stuff: 
+### 2. Real Talk on Life Stuff: 
 Got life questions? I’ve got some life answers! Think of me as that friend who always has a quirky tip or a story to help you through your day.
 
-## 3.Computer Science Made Simple: 
+### 3.Computer Science Made Simple: 
 Ever wondered how computer stuff works but found it too geeky? I’ll break it down for you. We’ll explore how tech is changing our world, without all the jargon.
 
-## 4. My Chinese Scholarship Journey: 
+### 4. My Chinese Scholarship Journey: 
 China was an eye-opener for me! If you're curious about studying there or just want to hear some cool stories, stick around.
 
 This blog isn’t just me yapping away. It’s a place for all of us to hang out, share ideas, and have some good old fun. Whether you're a tech lover, in need of a pep talk, or curious about studying in China, there’s a spot here for you.
