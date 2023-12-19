@@ -4,7 +4,7 @@ layout: post
 title: Tech & Wisdom
 subtitle: 'Navigating Life and Learning'
 description: >-
-Hey there! Welcome to 'Tech & Wisdom' your go-to spot for a chill mix of tech talk and life chats. Here, we keep it real with simple tech tips, life lessons, and cool stories from my time in China. It's all about sharing, laughing, and learning together. So, grab a coffee, get comfy, and let's dive into this adventure of life and tech, one post at a time!
+Hey there! Welcome to "Tech & Wisdom" your go-to spot for a chill mix of tech talk and life chats. Here, we keep it real with simple tech tips, life lessons, and cool stories from my time in China. It's all about sharing, laughing, and learning together. So, grab a coffee, get comfy, and let's dive into this adventure of life and tech, one post at a time!
 
 image: >-
  https://res.cloudinary.com/dvjxri3cd/image/upload/v1699443332/Mfaouzia/suqi6f5qgpu7py9cyndw.jpg
