@@ -4,7 +4,8 @@ layout: post
 title: Tech & Wisdom
 subtitle: 'Navigating Life and Learning'
 description: >-
- At our website, we invite you to explore a world of knowledge, personal development, and scholarship opportunities. We're here to help you on your path to success, whether you're looking to enhance your skills, achieve academic excellence, or secure financial aid. Join us on this exciting journey of discovery and self-improvement. Welcome aboard!
+Hey there! Welcome to 'Tech & Wisdom' your go-to spot for a chill mix of tech talk and life chats. Here, we keep it real with simple tech tips, life lessons, and cool stories from my time in China. It's all about sharing, laughing, and learning together. So, grab a coffee, get comfy, and let's dive into this adventure of life and tech, one post at a time!
+
 image: >-
  https://res.cloudinary.com/dvjxri3cd/image/upload/v1699443332/Mfaouzia/suqi6f5qgpu7py9cyndw.jpg
 optimized_image: >-
@@ -18,7 +19,7 @@ author: Mfaouzia
 paginate: true
 ---
 # Hey Friends!
-Super excited to have you here at my new blog, 'Tech & Wisdom'. It’s like a little corner of the internet where I chat about life lessons, the cool stuff I've learned in computer science, and my adventures with Chinese scholarships.
+Super excited to have you here at my new blog, 'Tech & Wisdom'. It’s like a little corner of the internet where I chat about life lessons, the cool stuff I've learned in computer science, and my adventure in China.
 
 ## What's Cooking in the Blog:
 
@@ -31,8 +32,8 @@ Got life questions? I’ve got some life answers! Think of me as that friend who
 ### 3.Computer Science Made Simple: 
 Ever wondered how computer stuff works but found it too geeky? I’ll break it down for you. We’ll explore how tech is changing our world, without all the jargon.
 
-### 4. My Chinese Scholarship Journey: 
-China was an eye-opener for me! If you're curious about studying there or just want to hear some cool stories, stick around.
+### 4. My Adventure in China: 
+China was and is an eye-opener for me! If you're curious about life and study there or just want to hear some cool stories, stick around.
 
 This blog isn’t just me yapping away. It’s a place for all of us to hang out, share ideas, and have some good old fun. Whether you're a tech lover, in need of a pep talk, or curious about studying in China, there’s a spot here for you.
 
