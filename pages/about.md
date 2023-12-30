@@ -22,6 +22,9 @@ Ever wondered how computer stuff works but found it too geeky? I’ll break it d
 #### 4. My Adventure in China: 
 China was and is an eye-opener for me! If you're curious about life and study there or just want to hear some cool stories, stick around.
 This blog is all about us - sharing, laughing, and learning together. Whether you're into tech, need a mood boost, or curious about China, there's something here for you.
+
 So, jump in, make yourself comfy, and let’s keep the chat rolling. Your stories and ideas are what make this place rock.
+
 Thanks for popping by! Let's kick off this fun, enlightening journey.
+
 Catch you in the posts!
