@@ -24,7 +24,7 @@ Back in January 2022, I had an idea to start a blog. Sounds simple, right? But i
 
 ## Big Cheers to My Cheerleaders
 First off, massive thanks to my mentor, **Moustakim Kifia**, whose wisdom is akin to a lighthouse in a storm, who always believed in me. He's been the guiding star from day one. Then there's [Kelvin Adantchede](https://kelvinagentk.com/), my pal from Benin – we met on a flight to China in 2017, just two strangers with big dreams. He was headed to work on a robotics project, and I was all high school nerves, bound for the *Chinese Bridge Competition*. Kelvin's been a rock, always pushing me forward.
-<img class="img-rounded" src="assets/img/uploads/Thankyou.jpg" alt="Big Cheers to My Cheerleaders" width="200">
+![Big Cheers to My Cheerleaders](https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/assets/img/uploads/Thankyou.jpg")
 
 ## The Techy Roadblocks
 Setting up the blog was tricky. So, I discussed buying a domain in China with one of my professors, but it wasn’t easy. He said it was hard without a company. Then, one of my Chinese classmates came to the rescue, suggesting GitHub for hosting and Alibaba Cloud for the domain. Sounds easy? Ha! I fumbled with the domain template verification, called support like a gazillion times, but hey, persistence pays off!
