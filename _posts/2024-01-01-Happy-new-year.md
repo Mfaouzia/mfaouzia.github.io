@@ -17,7 +17,7 @@ paginate: true
 ---
 Hey there, friends and fellow dreamers! Welcome to my new blog, **Tech & Wisdom**. Grab a cup of your favorite brew, get comfy, and let me take you on a journey – *my journey*. In this blog, we'll learn about cool tech stuff, talk about life lessons, and explore how people live around the world.
 
-     ![GRAB YOUR BREW](https://github.com/Mfaouzia/Mfaouzia.github.io/blob/master/src/img/2.png)
+     ![GRAB YOUR BREW](https://github.com/Mfaouzia/Mfaouzia.github.io/blob/master/src/img/2.png "first image")
 ## The Dream Begins...
 Back in January 2022, I had an idea to start a blog. Sounds simple, right? But it was actually a big challenge! It wasn’t just about setting up a website; it was about being ready to share *Me* with the world. The idea struck me on a chilly evening, inspired by my love for technology and storytelling. And guess what? Two years later, here we are!
 
