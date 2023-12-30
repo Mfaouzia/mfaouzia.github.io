@@ -5,9 +5,9 @@ title: Why books should be your priority?
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-     https://res.cloudinary.com/dvjxri3cd/image/upload/v1703597265/newyear_bgqbji.png
+     https://res.cloudinary.com/dvjxri3cd/image/upload/v1703922546/Mfaouzia/zhkovlcjtlvdjud8ucnm.jpg
 optimized_image: >-
-     https://res.cloudinary.com/dvjxri3cd/image/c_scale,w_380/upload/v1703597265/newyear_bgqbji.png
+     https://res.cloudinary.com/dvjxri3cd/image/c_scale,w_380/upload/v1703922546/Mfaouzia/zhkovlcjtlvdjud8ucnm.jpg
 category: life
 tags:
   - books
