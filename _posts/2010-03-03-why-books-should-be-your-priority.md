@@ -7,7 +7,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 image: >-
      https://res.cloudinary.com/dvjxri3cd/image/upload/v1703597265/newyear_bgqbji.png
 optimized_image: >-
-               https://res.cloudinary.com/dvjxri3cd/image/c_scale,w_380/upload/v1703597265/newyear_bgqbji.png
+     https://res.cloudinary.com/dvjxri3cd/image/c_scale,w_380/upload/v1703597265/newyear_bgqbji.png
 category: life
 tags:
   - books
