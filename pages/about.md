@@ -15,7 +15,7 @@ Hey there! Super glad you're checking out my blog, **Tech & Wisdom**. It’s lik
 
 What You'll Find Here:
 
-1*.Life Ups and Downs*: Sharing my journey and tips on staying positive.
+1.*Life Ups and Downs*: Sharing my journey and tips on staying positive.
 
 2.*Life Hacks and Chats*: Your go-to for quirky advice and daily musings.
 
