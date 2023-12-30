@@ -7,13 +7,22 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/027A7509.jpg" alt="Tech & Wisdom" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hey there! Super glad you're checking out my blog, 'Tech & Wisdom'. It’s like our chill spot online where we talk about life's twists and turns, cool computer science stuff, and my adventures in China.
+
+What You'll Find Here:
+
+1.*Life Ups and Downs*: Sharing my journey and tips on staying positive.
+2.*Life Hacks and Chats*: Your go-to for quirky advice and daily musings.
+3.*Tech in Plain English*: Making computer science fun and easy to grasp.
+4.*Tales from China*: My eye-opening experiences in a whole different world.
+This blog is all about us - sharing, laughing, and learning together. Whether you're into tech, need a mood boost, or curious about China, there's something here for you.
+
+So, jump in, make yourself comfy, and let’s keep the chat rolling. Your stories and ideas are what make this place rock.
+
+Thanks for popping by! Let's kick off this fun, enlightening journey.
+
+Catch you in the posts!
