@@ -17,7 +17,7 @@ paginate: true
 ---
 Hey there, friends and fellow dreamers! Welcome to my new blog, **Tech & Wisdom**. Grab a cup of your favorite brew, get comfy, and let me take you on a journey – *my journey*. In this blog, we'll learn about cool tech stuff, talk about life lessons, and explore how people live around the world.
  <p align="center">
-     <img src = "https://github.com/Mfaouzia/Mfaouzia.github.io/blob/master/src/img/2.png" width="500"/>
+     <img src = "https://github.com/Mfaouzia/Mfaouzia.github.io/blob/master/src/img/2.png"/>
   </p>
 
 ## The Dream Begins...
