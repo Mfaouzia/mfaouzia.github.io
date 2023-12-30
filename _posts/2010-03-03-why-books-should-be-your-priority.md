@@ -29,7 +29,7 @@ Setting up the blog was tricky. So, I discussed buying a domain in China with on
 ## New Year, New Lessons
 Starting this blog has taught me some important lessons. I've learned that it's okay to take time to do things well. And when it's hard, don't stop trying. Keep going, and you will make it. I want to share these insights with you. Every misstep was a lesson. Every hurdle was a chance to grow. Each small step reminded me that progress, no matter how minor, is still progress.
 
-Here are some simple pieces of advice for the new year:
+Here are some simple pieces of advice for the new year: 
 
 - **Take Small Steps**: Big dreams are great, but start with small steps. Each one takes you closer to your goal.
 - **Be Patient**: Good things take time. Don't rush. Be patient with yourself and your dreams.
