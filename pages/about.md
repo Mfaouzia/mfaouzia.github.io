@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date: '2023-12-30 01:53:59'
 title: About
 description: Some description.
 permalink: /about/
@@ -15,13 +15,13 @@ Hey there! Super glad you're checking out my blog, **Tech & Wisdom**. It’s lik
 
 What You'll Find Here:
 
-1.*Life Ups and Downs*: Sharing my journey and tips on staying positive.
+1.**Life Ups and Downs**: Sharing my journey and tips on staying positive.
 
-2.*Life Hacks and Chats*: Your go-to for quirky advice and daily musings.
+2.**Life Hacks and Chats**: Your go-to for quirky advice and daily musings.
 
-3.*Tech in Plain English*: Making computer science fun and easy to grasp.
+3.**Tech in Plain English**: Making computer science fun and easy to grasp.
 
-4.*Tales from China*: My eye-opening experiences in a whole different world.
+4.**Tales from China**: My eye-opening experiences in a whole different world.
 
 This blog is all about us - sharing, laughing, and learning together. Whether you're into tech, need a mood boost, or curious about China, there's something here for you.
 
