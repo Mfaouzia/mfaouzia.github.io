@@ -8,7 +8,7 @@ image: >-
      https://res.cloudinary.com/dvjxri3cd/image/upload/v1703922546/Mfaouzia/zhkovlcjtlvdjud8ucnm.jpg
 optimized_image: >-
      https://res.cloudinary.com/dvjxri3cd/image/c_scale,w_380/upload/v1703922546/Mfaouzia/zhkovlcjtlvdjud8ucnm.jpg
-category: life
+category: Personal_Growth
 tags:
   - books
   - read
@@ -41,7 +41,7 @@ And that's what I want to share with you all – *stay hopeful, stay positive. D
 
 This year, let's remember these ideas. Let's stay hopeful, work on our dreams, and have fun. We can make this year great together. Let's dream big and help each other. 
 
-#Happy 2024 to everyone!
+# Happy 2024 to everyone!
 
 
 
