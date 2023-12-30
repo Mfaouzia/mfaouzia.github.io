@@ -1,9 +1,9 @@
 ---
 date: 2023-12-29T11🕧.000Z
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: Hello 2024! Staying Happy and Hopeful This Year
+subtitle: My Journey of Smiles and Struggles
+description:  Let's make 2024 a year of big dreams and hearty smiles!
 image: >-
      https://res.cloudinary.com/dvjxri3cd/image/upload/v1703922546/Mfaouzia/zhkovlcjtlvdjud8ucnm.jpg
 optimized_image: >-
