@@ -1,5 +1,5 @@
 ---
-date: 2024-01-01 00:01:00
+date: 2023-12-31 00:01:00
 layout: post
 title: Hello 2024! Staying Happy and Hopeful This Year
 subtitle: My Journey of Smiles and Struggles
