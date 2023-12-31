@@ -22,6 +22,10 @@ Hey there, friends and fellow dreamers! Welcome to my new blog, **Tech & Wisdom*
 ## The Dream Begins...
 Back in January 2022, I had an idea to start a blog. Sounds simple, right? But it was actually a big challenge! It wasn’t just about setting up a website; it was about being ready to share *Me* with the world. The idea struck me on a chilly evening, inspired by my love for technology and storytelling. And guess what? Two years later, here we are!
 
+
+<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/3.png" alt="dream" width="400"/> 
+
+
 ## Big Cheers to My Cheerleaders
 First off, massive thanks to my mentor, **Moustakim Kifia**, whose wisdom is akin to a lighthouse in a storm, who always believed in me. He's been the guiding star from day one. Then there's [Kelvin Adantchede](https://kelvinagentk.com/), my pal from Benin – we met on a flight to China in 2017, just two strangers with big dreams. He was headed to work on a robotics project, and I was all high school nerves, bound for the *Chinese Bridge Competition*. Kelvin's been a rock, always pushing me forward.
 
@@ -29,6 +33,10 @@ First off, massive thanks to my mentor, **Moustakim Kifia**, whose wisdom is aki
 
 ## The Techy Roadblocks
 Setting up the blog was tricky. So, I discussed buying a domain in China with one of my professors, but it wasn’t easy. He said it was hard without a company. Then, one of my Chinese classmates came to the rescue, suggesting GitHub for hosting and Alibaba Cloud for the domain. Sounds easy? Ha! I fumbled with the domain template verification, called support like a gazillion times, but hey, persistence pays off!
+
+
+<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/4.png" alt="dream" width="400"/> 
+
 
 ## New Year, New Lessons
 Starting this blog has taught me some important lessons. I've learned that it's okay to take time to do things well. And when it's hard, don't stop trying. Keep going, and you will make it. I want to share these insights with you. Every misstep was a lesson. Every hurdle was a chance to grow. Each small step reminded me that progress, no matter how minor, is still progress.
@@ -40,6 +48,8 @@ Here are some simple pieces of advice for the new year:
 - **Stay Positive**: Even when things are hard, try to stay positive. A positive mind finds ways to solve problems.
 - **Ask for Help**: It's okay to ask for help when you need it. We all need a helping hand sometimes.
 - **Enjoy the Journey**: Don't just focus on the destination. Enjoy the journey and the learning along the way.
+
+<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/5.png" alt="dream" width="400"/> 
 
 And that's what I want to share with you all – *stay hopeful, stay positive. Dream big, work hard, and laugh often*.
 
