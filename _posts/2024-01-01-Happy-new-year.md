@@ -25,6 +25,7 @@ Back in January 2022, I had an idea to start a blog. Sounds simple, right? But i
 First off, massive thanks to my mentor, **Moustakim Kifia**, whose wisdom is akin to a lighthouse in a storm, who always believed in me. He's been the guiding star from day one. Then there's [Kelvin Adantchede](https://kelvinagentk.com/), my pal from Benin – we met on a flight to China in 2017, just two strangers with big dreams. He was headed to work on a robotics project, and I was all high school nerves, bound for the *Chinese Bridge Competition*. Kelvin's been a rock, always pushing me forward.
 
 <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/Thankyou.jpg" alt="Big cheers" width="400"/>
+
 ## The Techy Roadblocks
 Setting up the blog was tricky. So, I discussed buying a domain in China with one of my professors, but it wasn’t easy. He said it was hard without a company. Then, one of my Chinese classmates came to the rescue, suggesting GitHub for hosting and Alibaba Cloud for the domain. Sounds easy? Ha! I fumbled with the domain template verification, called support like a gazillion times, but hey, persistence pays off!
 
