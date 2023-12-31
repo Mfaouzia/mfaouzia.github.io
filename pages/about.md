@@ -25,6 +25,6 @@ This blog is all about us - sharing, laughing, and learning together. Whether yo
 
 So, jump in, make yourself comfy, and let’s keep the chat rolling. Your stories and ideas are what make this place rock.
 
-Thanks for popping by! Let's kick off this fun, enlightening journey.
+Thanks for popping by! Let's kick off this fun.
 
 Catch you in the posts!
