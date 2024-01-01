@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekflix"
   spec.version       = "3.1.2"
-  spec.authors       = ["Thiago Rossener"]
-  spec.email         = ["thiago@rossener.com"]
+  spec.authors       = ["Mroivili Faouzia"]
+  spec.email         = ["saidalifaou@outlook.com"]
 
   spec.summary       = "A Jekyll theme inspired by Netflix."
-  spec.homepage      = "https://jekflix.rossener.com/"
+  spec.homepage      = "https://mfaouzia.top/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(_(includes|layouts|sass)/|assets/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i) }
