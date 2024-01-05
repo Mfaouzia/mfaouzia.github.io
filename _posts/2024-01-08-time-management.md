@@ -26,6 +26,8 @@ And you know what? You can learn these secrets too. In this blog post, I’m goi
 
 So, if you’re ready to take charge of your time and your life, keep reading. I promise you, it will be worth it.
 
+<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/7.png" alt="time" height="200" width="400"/> 
+
 
 ## The Book That Started It All
 
@@ -56,6 +58,8 @@ So, how do you say no without feeling guilty or offending anyone? Here are some 
 - **Be honest, but kind**: If you can’t do something, just say so. Don’t make up excuses or lie. People appreciate honesty, and they will respect you for it.
 - **Offer a rain check**: If you can’t do something now, but you’re interested in doing it later, suggest another time that works for you. This way, you’re not rejecting the person or the opportunity, you’re just postponing it.
 - **Keep it short and sweet**: Sometimes, all you need is a polite *No, thanks.* You don’t have to explain yourself or justify your decision. Just be courteous and firm.
+
+<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/8.png" alt="time" height="200" width="400"/> 
 
 ## My Daily Game Plan: Micro-Scheduling
 
