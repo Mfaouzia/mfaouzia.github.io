@@ -1,5 +1,5 @@
 ---
-date: 2024-01-3 00🕙
+date: 2024-01-03 00🕙
 layout: post
 title: Juggling Life | How to Manage Your Time
 subtitle: A Personal Journey Towards Effective Time Management
