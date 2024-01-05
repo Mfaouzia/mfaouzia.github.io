@@ -7,7 +7,7 @@ description:  Let's make 2024 a year of big dreams and hearty smiles!
 image: >-
      https://res.cloudinary.com/dvjxri3cd/image/upload/v1703922546/Mfaouzia/zhkovlcjtlvdjud8ucnm.jpg
 optimized_image: >-
-     https://res.cloudinary.com/dvjxri3cd/image/c_scale,w_380/upload/v1703922546/Mfaouzia/zhkovlcjtlvdjud8ucnm.jpg
+     https://res.cloudinary.com/dvjxri3cd/image/upload/f_auto,q_auto/v1/Mfaouzia/zhkovlcjtlvdjud8ucnm
 category: Personal_Growth
 tags:
   - books
