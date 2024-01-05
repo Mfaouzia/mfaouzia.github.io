@@ -67,11 +67,12 @@ So, how do you say no without feeling guilty or offending anyone? Here are some 
 
 One of the most effective tools I use for time management is micro-scheduling. Micro-scheduling is a technique where you plan your day in detail, breaking it down into small chunks of time and assigning specific tasks to each chunk. For example, instead of writing *‘work on project’* in your calendar, you write *‘work on project: research, outline, draft, edit, proofread’* and allocate a certain amount of time for each subtask.
 
-Micro-scheduling helps me in several ways. First, it helps me stay focused and avoid distractions. By having a clear plan for each hour of my day, I know exactly what I need to do and when I need to do it. I don’t waste time wondering what to do next, or switching between different tasks. I just follow my schedule and get things done.
+Micro-scheduling helps me in several ways. 
+- First, it helps me stay focused and avoid distractions. By having a clear plan for each hour of my day, I know exactly what I need to do and when I need to do it. I don’t waste time wondering what to do next, or switching between different tasks. I just follow my schedule and get things done.
 
-Second, it helps me manage my energy and motivation. By breaking down big tasks into smaller ones, I make them more manageable and less overwhelming. I also get a sense of accomplishment and progress every time I complete a subtask. This boosts my confidence and keeps me motivated to continue.
+- Second, it helps me manage my energy and motivation. By breaking down big tasks into smaller ones, I make them more manageable and less overwhelming. I also get a sense of accomplishment and progress every time I complete a subtask. This boosts my confidence and keeps me motivated to continue.
 
-Third, it helps me track my performance and improve my productivity. By setting a time limit for each task, I challenge myself to work faster and smarter. I also measure how long it actually takes me to finish each task, and compare it to my estimate. This way, I can identify where I’m doing well and where I need to improve. I can also adjust my schedule accordingly, and optimize my time.
+- Third, it helps me track my performance and improve my productivity. By setting a time limit for each task, I challenge myself to work faster and smarter. I also measure how long it actually takes me to finish each task, and compare it to my estimate. This way, I can identify where I’m doing well and where I need to improve. I can also adjust my schedule accordingly, and optimize my time.
 
 To create my micro-schedule, I use a simple notebook and a pen. I write down my daily goals, and then break them down into subtasks. I estimate how long each subtask will take, and assign it to a specific time slot. I also leave some buffer time between tasks, in case something takes longer than expected, or something unexpected comes up. I also schedule some breaks throughout the day, to recharge and relax.
 
@@ -83,9 +84,9 @@ Here’s an example of what my micro-schedule looks like:
 
 There are many apps and gadgets that claim to help you with time management. I’ve tried some of them, and they can be useful and fun. But in the end, I realized that I don’t need fancy or complicated tools to manage my time. I just need the basics: a *notebook*, a *pen*, and an *alarm*.
 
-A notebook and a pen are my best friends when it comes to time management. I use them to create my micro-schedule, to write down my thoughts and ideas, to make lists and notes, and to track my progress and results. I find writing by hand to be more effective and satisfying than typing on a screen. It helps me remember things better, and it gives me a sense of ownership and achievement.
+- A **notebook** and a **pen** are my best friends when it comes to time management. I use them to create my micro-schedule, to write down my thoughts and ideas, to make lists and notes, and to track my progress and results. I find writing by hand to be more effective and satisfying than typing on a screen. It helps me remember things better, and it gives me a sense of ownership and achievement.
 
-An alarm is my other essential tool for time management. I use it to remind me of my tasks, deadlines, and appointments. I also use it to set time limits for my tasks, and to signal when it’s time to take a break. An alarm helps me stay on track and on time, and it prevents me from losing track of time.
+- An **alarm** is my other essential tool for time management. I use it to remind me of my tasks, deadlines, and appointments. I also use it to set time limits for my tasks, and to signal when it’s time to take a break. An alarm helps me stay on track and on time, and it prevents me from losing track of time.
 
 Of course, I also use some digital tools for certain things, like Google Calendar for scheduling my meetings and events. But for the most part, I stick to the basics. They are simple, reliable, and effective.
 
