@@ -26,7 +26,7 @@ And you know what? You can learn these secrets too. In this blog post, I’m goi
 
 So, if you’re ready to take charge of your time and your life, keep reading. I promise you, it will be worth it.
 
-<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/7.png" alt="time" height="200" width="400"/> 
+<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/7.png" alt="time" height="200" width="300"/> 
 
 
 ## The Book That Started It All
@@ -44,6 +44,8 @@ The book is called **The Miracle Morning** by *Hal Elrod*. It’s a best-selling
 
 At first, I was skeptical. I thought, *“How can waking up early and doing these things make such a big difference?”* But I decided to give it a try. And I was amazed by the results. By following the Miracle Morning routine, I was able to start my day with a clear mind, a positive attitude, and a sense of purpose. I was able to tackle my tasks with more clarity, creativity, and productivity. I was able to achieve more in less time, and enjoy the process.
 
+<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/11.jpg" alt="book" height="200" width="400"/> 
+
 The Miracle Morning taught me that how you start your day determines how you live your day. And how you live your day determines how you live your life. By making a few simple changes to my morning habits, I was able to make a huge impact on my time management and my life quality.
 
 ## The Art of Saying "NO"
@@ -59,7 +61,7 @@ So, how do you say no without feeling guilty or offending anyone? Here are some 
 - **Offer a rain check**: If you can’t do something now, but you’re interested in doing it later, suggest another time that works for you. This way, you’re not rejecting the person or the opportunity, you’re just postponing it.
 - **Keep it short and sweet**: Sometimes, all you need is a polite *No, thanks.* You don’t have to explain yourself or justify your decision. Just be courteous and firm.
 
-<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/8.png" alt="time" height="200" width="400"/> 
+<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/8.png" alt="no" height="200" width="300"/> 
 
 ## My Daily Game Plan: Micro-Scheduling
 
@@ -74,6 +76,8 @@ Third, it helps me track my performance and improve my productivity. By setting 
 To create my micro-schedule, I use a simple notebook and a pen. I write down my daily goals, and then break them down into subtasks. I estimate how long each subtask will take, and assign it to a specific time slot. I also leave some buffer time between tasks, in case something takes longer than expected, or something unexpected comes up. I also schedule some breaks throughout the day, to recharge and relax.
 
 Here’s an example of what my micro-schedule looks like:
+
+<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/9.jpg" alt="plan" height="200" width="300"/> 
 
 ## My Favorite Tools: Back to Basics
 
@@ -93,14 +97,16 @@ The final secret I want to share with you about time management is my mantra: *s
 
 - **Focus** means to concentrate on one thing at a time, and to do it well. It means to avoid distractions and multitasking, and to give my full attention and effort to the task at hand. It means to set clear goals and priorities, and to follow them with discipline and determination.
 
-
+<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/12.jpg" alt="focus" height="200" width="300"/> 
 
 ## Some Food for Thought
 
-If you’re looking for more inspiration and guidance on time management, I highly recommend reading 'Focus on What Matters' written by Darius Foroux. It's a gem that reminds us how crucial it is to stay focused amidst the chaos of everyday life.
+If you’re looking for more inspiration and guidance on time management, I highly recommend reading **'Focus on What Matters'** written by *Darius Foroux*. It's a gem that reminds us how crucial it is to stay focused amidst the chaos of everyday life.
+
+<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/10.jpg" alt="book" height="200" width="300"/> 
 
 ## And Finally...
 
 Time management isn't just about crossing off items on a list; it's about choosing a lifestyle that aligns with your goals and values. My transformation from a disorganized, forgetful person to someone who's got their act together (mostly!) has been quite the adventure. Now, it's your turn. How do you handle the ticking clock? Let's start a conversation by send me message.
 
-Thank you so much for reading! If you find this article helpful, share it, and follow me on instagram for more stories and tips on managing this wild ride we call life. Can't wait to hear your thoughts!
+Thank you so much for reading! If you find this article helpful, please share it, and follow me on Instagram for more stories and tips on managing the wild ride we call life. Can't wait to hear your thoughts!
