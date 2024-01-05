@@ -1,5 +1,5 @@
 ---
-date: 2024-01-10 00🕙
+date: 2023-01-10 00🕙
 layout: post
 title: Juggling Life | How to Manage Your Time
 subtitle: A Personal Journey Towards Effective Time Management
@@ -46,7 +46,8 @@ The Miracle Morning taught me that how you start your day determines how you liv
 
 ## The Art of Saying "NO"
 
-Another key lesson I learned about time management is the art of saying **"NO"**. This was a hard one for me, because I’ve always been a *people-pleaser*. I wanted to help everyone, please everyone, and be liked by everyone. But I realized that by saying yes to everything and everyone, I was saying no to myself. I was sacrificing my own goals, dreams, and happiness for the sake of others.
+Another key lesson I learned about time management is the art of saying **"NO"**. 
+This was a hard one for me, because I’ve always been a *people-pleaser*. I wanted to help everyone, please everyone, and be liked by everyone. But I realized that by saying yes to everything and everyone, I was saying no to myself. I was sacrificing my own goals, dreams, and happiness for the sake of others.
 
 I learned that saying no is not selfish or rude, it’s necessary and respectful. It’s necessary because you have limited time and energy, and you need to use them wisely. It’s respectful because you’re being honest and realistic, and you’re not letting anyone down.
 
