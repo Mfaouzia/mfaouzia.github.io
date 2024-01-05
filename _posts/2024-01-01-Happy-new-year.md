@@ -11,6 +11,8 @@ optimized_image: >-
 category: Personal_Growth
 tags:
   - books
+  - Happy_new_year
+  - MyJourney
   - read
 author: Mfaouzia
 paginate: true
