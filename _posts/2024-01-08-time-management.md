@@ -1,5 +1,5 @@
 ---
-date: 2024-01-03 00🕙
+date: 2024-01-08 00🕙
 layout: post
 title: Juggling Life | How to Manage Your Time
 subtitle: A Personal Journey Towards Effective Time Management
@@ -65,7 +65,7 @@ So, how do you say no without feeling guilty or offending anyone? Here are some 
 
 ## My Daily Game Plan: Micro-Scheduling
 
-One of the most effective tools I use for time management is micro-scheduling. Micro-scheduling is a technique where you plan your day in detail, breaking it down into small chunks of time and assigning specific tasks to each chunk. For example, instead of writing *‘work on project’* in your calendar, you write *‘work on project: research, outline, draft, edit, proofread’* and allocate a certain amount of time for each subtask.
+One of the most effective tools I use for time management is *micro-scheduling*. It is a technique where you plan your day in detail, breaking it down into small chunks of time and assigning specific tasks to each chunk. For example, instead of writing *‘work on project’* in your calendar, you write *‘work on project: research, outline, draft, edit, proofread’* and allocate a certain amount of time for each subtask.
 
 Micro-scheduling helps me in several ways. 
 - First, it helps me stay focused and avoid distractions. By having a clear plan for each hour of my day, I know exactly what I need to do and when I need to do it. I don’t waste time wondering what to do next, or switching between different tasks. I just follow my schedule and get things done.
