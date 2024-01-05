@@ -5,9 +5,9 @@ title: Juggling Life | How to Manage Your Time
 subtitle: A Personal Journey Towards Effective Time Management
 description:  The Secrets of Effective Time Management That Changed My Life Forever!
 image: >-
-     https://res.cloudinary.com/dvjxri3cd/image/upload/v1704441171/Mfaouzia/ohmmqgcbwhpa6u9wvqh8.jpg
+     https://res.cloudinary.com/dvjxri3cd/image/upload/v1704448274/29797-clock-sstock-533640004_b91ft9.jpg
 optimized_image: >-
-     https://res.cloudinary.com/dvjxri3cd/image/c_scale,w_380/upload/v1704441171/Mfaouzia/ohmmqgcbwhpa6u9wvqh8.jpg
+     https://res.cloudinary.com/dvjxri3cd/image/c_scale,w_380/upload/v1704448274/29797-clock-sstock-533640004_b91ft9.jpg
 category: time management
 tags:
   - books
