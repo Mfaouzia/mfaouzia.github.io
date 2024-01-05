@@ -18,7 +18,7 @@ paginate: true
 ---
 Have you ever felt like time is slipping away from you? Like you have so much to do, but not enough hours in the day? Like you’re always running behind, missing deadlines, and forgetting things?
 
-If you answered yes to any of these questions, you’re not alone. I used to feel the same way. My life was a mess of chaos, stress, and frustration. I was constantly overwhelmed by my endless to-do list, and I felt like I had no control over my time or my life.
+If you answered **YES** to any of these questions, you’re not alone. I used to feel the same way. My life was a mess of chaos, stress, and frustration. I was constantly overwhelmed by my endless to-do list, and I felt like I had no control over my time or my life.
 
 But then, something amazing happened. I discovered the secrets of effective time management that transformed my life for the better. I learned how to plan, prioritize, and execute my tasks with ease and efficiency. I learned how to say no to distractions and yes to my goals. I learned how to make the most of every minute of every day.
 
