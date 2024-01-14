@@ -1,13 +1,14 @@
 ---
-date: 2024-01-15 00🕙
+date: 2024-01-5 00🕙
 layout: post
 title: Computer Basics | Learning to Code Step-by-Step - An In-Depth Guide
 subtitle: Beginner's Roadmap to Programming
 description: This guide simplifies learning coding for beginners, covering essentials from basics to advanced concepts. It's a practical, easy-to-follow resource for anyone aspiring to understand and master coding, providing insights into different programming languages, tools, and the future of coding. Perfect for starting a coding journey.
 image: >-
-     https://res.cloudinary.com/dvjxri3cd/image/upload/v1703922546/Mfaouzia/zhkovlcjtlvdjud8ucnm.jpg
+     https://res.cloudinary.com/dvjxri3cd/image/upload/v1705217276/Mfaouzia/gettyimages-1300459356-612x612_fxx5cu.jpg
 optimized_image: >-
-     https://res.cloudinary.com/dvjxri3cd/image/upload/f_auto,q_auto/v1/Mfaouzia/zhkovlcjtlvdjud8ucnm
+     https://res.cloudinary.com/dvjxri3cd/image/upload/f_auto,q_auto/v1/Mfaouzia/gettyimages-1300459356-612x612_fxx5cu
+     
 category: code
 tags:
   - coding
