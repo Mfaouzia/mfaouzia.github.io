@@ -5,9 +5,9 @@ title: Computer Basics | Learning to Code Step-by-Step - An In-Depth Guide
 subtitle: Beginner's Roadmap to Programming
 description: This guide helps you start coding in a simple way. It begins with the basics and then moves on to more challenging parts. It’s easy to read and great for people who want to learn coding. You’ll find out about different coding languages, useful tools, and what coding might look like in the future. It's perfect for beginners who are excited to start coding.
 image: >-
-     https://res.cloudinary.com/dvjxri3cd/image/upload/v1705224370/Mfaouzia/13_t2jjfp.jpg
+     https://res.cloudinary.com/dvjxri3cd/image/upload/v1705217276/Mfaouzia/gettyimages-1300459356-612x612_fxx5cu.jpg
 optimized_image: >-
-     https://res.cloudinary.com/dvjxri3cd/image/upload/f_auto,q_auto/v1/Mfaouzia/13_t2jjfp
+     https://res.cloudinary.com/dvjxri3cd/image/upload/f_auto,q_auto/v1/Mfaouzia/gettyimages-1300459356-612x612_fxx5cu
      
 category: code
 tags:
