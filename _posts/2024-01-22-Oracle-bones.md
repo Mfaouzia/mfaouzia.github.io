@@ -1,5 +1,5 @@
 ---
-date: 2024-01-22 01🕥
+date: 2024-01-16 01🕥
 layout: post
 title: My China Story | Discovering Ancient Oracle Bones
 subtitle: Exploring Ancient China
@@ -65,7 +65,7 @@ I was amazed by the oracle bone, and how it showed the connection between the an
   <tr>
     <!-- This is the column for the image -->
     <td>
-      <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/15.jpg" alt="time" />
+      <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/15.jpg" alt="time" height="300" width="300"/>
     </td>
     <td>
       Seeing the oracle bone was a life-changing experience for me. It made me realize how rich and profound Chinese history and culture are, and how much I still have to learn. It also made me appreciate the beauty and logic of Chinese writing, and how it reflects the wisdom and creativity of the ancient Chinese people.
@@ -85,10 +85,10 @@ Seeing the oracle bone was a turning point for me. It inspired me to pursue my p
   <tr>
     <!-- This is the column for the image -->
     <td>
-      <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/16.png" alt="time" />
+      <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/16.png" alt="time" height="300" width="300"/>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/17.png" alt="time" />
+      <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/17.png" alt="time" height="300" width="300"/>
     </td>
     <td>
       Chinese oracle bones, produced during the Shang Dynasty, reflect a fascinating era in history. The king ruled supreme, China was a slave society, productivity was low, and divination/superstition was a key method for the king to make policy decisions. Oracle bones were the main medium for divination. At that time, the two most important affairs for the state were war and sacrifice, which both relied on oracle bones. Therefore, today, China can learn about the entire Shang culture through the writing on the oracle bones, which is the “messenger” of the Chinese slave society.
@@ -104,7 +104,7 @@ I was not the only one who was inspired by the oracle bones and Chinese history.
   <tr>
     <!-- This is the column for the image -->
     <td>
-      <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/14.jpg" alt="time" />
+      <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/14.jpg" alt="time" height="300" width="300"/>
     </td>
     <td>
      《If There Were No Oracle Bones》
