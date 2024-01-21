@@ -1,5 +1,5 @@
 ---
-date: 2024-01-22 02：00:
+date: 2024-01-22 02：00
 layout: post
 title: My China Story | Discovering Ancient Oracle Bones
 subtitle: Exploring Ancient China
