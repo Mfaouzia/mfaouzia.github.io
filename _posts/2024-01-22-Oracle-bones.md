@@ -1,5 +1,5 @@
 ---
-date: 2024-01-22 01🕥
+date: 2024-01-16 01🕥
 layout: post
 title: My China Story | Discovering Ancient Oracle Bones
 subtitle: Exploring Ancient China
@@ -76,26 +76,21 @@ I was amazed by the oracle bone, and how it showed the connection between the an
 Chinese oracle bones, produced during the Shang Dynasty, reflect a fascinating era in history. The king ruled supreme, China was a slave society, productivity was low, and divination/superstition was a key method for the king to make policy decisions. Oracle bones were the main medium for divination. At that time, the two most important affairs for the state were war and sacrifice, which both relied on oracle bones. Therefore, today, China can learn about the entire Shang culture through the writing on the oracle bones, which is the “messenger” of the Chinese slave society.
 
 ## The Art of Awe: Words That Inspired My Schoolmates
-
 I was not the only one who was inspired by the oracle bones and Chinese history. Many of my friends who joined me on the trip were also amazed and moved by what they saw and learned. Here are some of the words that they shared with me:
 
-<table>
-  <tr>
-    <td><img width="250" height="300" src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/14.jpg"></td>
-    <td>《If There Were No Oracle Bones》
+<img width="250" height="300" src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/14.jpg">
+    
+* "If There Were No Oracle Bones
+
 If there were no oracle bones, Chinese civilization would lose its origin. The long river of history is silent, who can speak of the mystery of writing?
 
 The remnants of the Yin-Shang dynasty are passed down through the ages, turtle shells and animal bones preserve the fragments. Pictographs and ideographs convey profound meanings, cultural treasures are forever transmitted.
   
-Now Chinese characters are known to the world, how can we forget the source of our water? Cherish the heritage and inherit the aspiration, the descendants and future generations will enjoy the blessings.” - Maia from Hebi City, Henan Province.</td>
-  <tr>
-</table>
-<table>
-  <tr>
-    <td><img width="300" height="300" src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/18.jpg"></td>
-    <td>- “The Anyang Museum was the first place where I saw Chinese oracle bone inscriptions. I felt like I had traveled back to the ancient times of the Shang and Zhou dynasties, and witnessed the glory of Chinese civilization through the countless relics. I think that oracle bones are not only a vital part of Chinese culture, but also have some impact on modern society, academia and culture. Through oracle bones, I can not only learn more about Chinese culture and the history of Chinese characters, but also discover a new way of communication.” - Ratana Kim from Cambodia.</td>
-  <tr>
-</table>
+Now Chinese characters are known to the world, how can we forget the source of our water? Cherish the heritage and inherit the aspiration, the descendants and future generations will enjoy the blessings." - Maia from Hebi City, Henan Province.
+
+<img width="300" height="300" src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/18.jpg">
+
+* "The Anyang Museum was the first place where I saw Chinese oracle bone inscriptions. I felt like I had traveled back to the ancient times of the Shang and Zhou dynasties, and witnessed the glory of Chinese civilization through the countless relics. I think that oracle bones are not only a vital part of Chinese culture, but also have some impact on modern society, academia and culture. Through oracle bones, I can not only learn more about Chinese culture and the history of Chinese characters, but also discover a new way of communication." - Ratana Kim from Cambodia.
 
 You can also learn more about oracle bones and Chinese history from these sources:
 
