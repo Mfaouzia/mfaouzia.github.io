@@ -67,6 +67,7 @@ I was amazed by the oracle bone, and how it showed the connection between the an
 * Seeing the oracle bone was a turning point for me. It inspired me to pursue my passion for Chinese history and culture, and to improve my skills in Chinese writing. It also made me grateful for the opportunity to visit China, and to experience its wonders and wonders.
 
 ## Oracles of China
+
 <table>
   <tr>
     <td><img width="300" height="200" src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/16.png"></td>
