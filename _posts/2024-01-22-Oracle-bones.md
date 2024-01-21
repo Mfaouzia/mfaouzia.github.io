@@ -1,5 +1,5 @@
 ---
-date: 2024-01-16 01🕥
+date: 2024-01-22 02：00:
 layout: post
 title: My China Story | Discovering Ancient Oracle Bones
 subtitle: Exploring Ancient China
@@ -11,9 +11,9 @@ optimized_image: >-
      
 category: life
 tags:
-  - China
-  - Oracle Bones
-  - Ancient China
+  - 中国
+  - 甲骨文
+  - 中国古代
 author: Mfaouzia
 paginate: true
 ---
