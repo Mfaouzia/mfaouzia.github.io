@@ -67,13 +67,9 @@ I was amazed by the oracle bone, and how it showed the connection between the an
 * Seeing the oracle bone was a turning point for me. It inspired me to pursue my passion for Chinese history and culture, and to improve my skills in Chinese writing. It also made me grateful for the opportunity to visit China, and to experience its wonders and wonders.
 
 ## Oracles of China
+<img width="150" height="150" src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/16.png">
+<img width="150" height="150" src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/17.png">
 
-<table>
-  <tr>
-    <td><img width="300" height="200" src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/16.png"></td>
-    <td><img width="300" height="200" src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/17.png"></td>
- </table> 
- 
 Chinese oracle bones, produced during the Shang Dynasty, reflect a fascinating era in history. The king ruled supreme, China was a slave society, productivity was low, and divination/superstition was a key method for the king to make policy decisions. Oracle bones were the main medium for divination. At that time, the two most important affairs for the state were war and sacrifice, which both relied on oracle bones. Therefore, today, China can learn about the entire Shang culture through the writing on the oracle bones, which is the “messenger” of the Chinese slave society.
 
 ## The Art of Awe: Words That Inspired My Schoolmates
@@ -94,7 +90,6 @@ Now Chinese characters are known to the world, how can we forget the source of o
 * "The Anyang Museum was the first place where I saw Chinese oracle bone inscriptions. I felt like I had traveled back to the ancient times of the Shang and Zhou dynasties, and witnessed the glory of Chinese civilization through the countless relics. I think that oracle bones are not only a vital part of Chinese culture, but also have some impact on modern society, academia and culture. Through oracle bones, I can not only learn more about Chinese culture and the history of Chinese characters, but also discover a new way of communication." - Ratana Kim from Cambodia.
 
 You can also learn more about oracle bones and Chinese history from these sources:
-
 - [Oracle bone - Wikipedia](https://en.wikipedia.org/wiki/Oracle_bone)
 - [Oracle Bones - World History Encyclopedia](https://www.worldhistory.org/Oracle_Bones/)
 - [Oracle Bones - National Museums Scotland](https://www.nms.ac.uk/oraclebones/)
