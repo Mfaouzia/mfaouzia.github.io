@@ -66,7 +66,7 @@ I was amazed by the oracle bone, and how it showed the connection between the *a
   * As an *international student*, I have always been challenged by Chinese writing, but seeing the oracle bone made me motivated to learn Chinese characters. I realized that Chinese writing is not just a random collection of strokes, but a system of symbols that have meaning and history. I realized that learning Chinese characters is not just a matter of memorization, but a process of discovery and understanding. 
 * Seeing the oracle bone was a turning point for me. It inspired me to pursue my passion for Chinese history and culture, and to improve my skills in Chinese writing. It also made me grateful for the opportunity to visit China, and to experience its wonders and wonders.
 
-## Oracles of China
+## Oracles of China 
 <img width="150" height="150" src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/16.png">
 <img width="150" height="150" src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/17.png">
 
