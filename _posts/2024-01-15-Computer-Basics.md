@@ -39,9 +39,7 @@ Coding can seem intimidating and complicated, but it’s not as hard as you migh
 - **Myth: Coding is boring and tedious.** Reality: This is not true. Coding is fun and engaging. You can use coding to create anything you can imagine, from games and animations to websites and apps. You can also use coding to challenge yourself, learn new things, and connect with other coders.
 
 ## How to Choose the Right Programming Language? 
-Programming languages are the languages that you use to write code. There are hundreds of programming languages, each
-
-with its own features and applications. Some of the most popular and frequently used programming languages are:
+Programming languages are the languages that you use to write code. There are hundreds of programming languages, each with its own features and applications. Some of the most popular and frequently used programming languages are:
 - **Python**: A general-purpose, high-level, and easy-to-learn language that can be used for web development, data analysis, machine learning, and more.
 - **Java**: A powerful, object-oriented, and cross-platform language that can be used for web development, mobile development, desktop applications, and more.
 - **C#:** A modern, versatile, and object-oriented language that can be used for web development, mobile development, game development, and more.
