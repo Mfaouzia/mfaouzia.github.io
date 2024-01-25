@@ -72,7 +72,7 @@ I was amazed by the oracle bone, and how it showed the connection between the *a
 
 **Chinese oracle bones**, produced during the *Shang Dynasty*, reflect a fascinating era in history. The king ruled supreme, China was a slave society, productivity was low, and divination/superstition was a key method for the king to make policy decisions. Oracle bones were the main medium for divination. At that time, the two most important affairs for the state were **war** and **sacrifice**, which both relied on oracle bones. Therefore, today, China can learn about the entire Shang culture through the writing on the oracle bones, which is the “messenger” of the Chinese slave society.
 
-## The Art of Awe: Words That Inspired My Schoolmates
+## The Art of Awe: Words That Inspired My Friends
 I was not the only one who was inspired by the oracle bones and Chinese history. Many of my friends who joined me on the trip were also amazed and moved by what they saw and learned. Here are some of the words that they shared with me:
 
 <img width="250" height="300" src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/14.jpg">
