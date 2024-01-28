@@ -3,20 +3,21 @@ date: 2024-01-27 00🕙
 layout: post
 title: Making good habits | Easy steps for big changes
 subtitle: Transform Your Daily Routine for a Happier You
-description: Discover the magic of small habits for significant life changes in this article. Learn about G O O D H A B I T S – from Gratitude to Time management.
+description: Discover the magic of small habits for significant life changes in this article.
 image: >-
      https://res.cloudinary.com/dvjxri3cd/image/upload/v1706456091/Mfaouzia/19_ie3llg.png
 optimized_image: >-
-     https://res.cloudinary.com/dvjxri3cd/image/upload/f_auto,q_auto/v1/Mfaouzia/19_ie3llg     
+     https://res.cloudinary.com/dvjxri3cd/image/upload/f_auto,q_auto/v1/Mfaouzia/19_ie3llg   
 category: Personal_Growth
 tags:
   - GoodHabits
   - SmallSteps
   - PositiveChange
   - DailyRoutine
-author: Mfaouzia
+author: Maliha
 paginate: true
 ---
+
 Can you recall the phrase, 'Small achievements create big differences'? Wait! Wait! Another one, 'Rome wasn't built in a day.' There's a reason I bring up these two famous lines as we dive into this article. Later, I'll elaborate on the significance of these two phrases. During our childhood, we absorb numerous educational and motivational lines from our books. At that time, we may not fully grasp their significance. Yet, as we age and confront challenges in our journey to adulthood, these lines undergo a transformative impact on us.
 Let me keep it simple: 'LOVE YOURSELF, TAKE CARE OF YOUR HEALTH AND MIND, AND DON'T RUSH; SUCCESS TAKES TIME TO GET READY.' No more beating around the bush – let's dive into the main topic. Ever wonder when people find inner peace and the confidence to achieve big things? For me, it's when individuals build up good habits.
 
