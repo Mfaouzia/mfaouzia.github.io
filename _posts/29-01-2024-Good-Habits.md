@@ -7,8 +7,7 @@ description: Discover the magic of small habits for significant life changes in 
 image: >-
      https://res.cloudinary.com/dvjxri3cd/image/upload/v1706456091/Mfaouzia/19_ie3llg.png
 optimized_image: >-
-     https://res.cloudinary.com/dvjxri3cd/image/upload/f_auto,q_auto/v1/Mfaouzia/19_ie3llg
-     
+     https://res.cloudinary.com/dvjxri3cd/image/upload/f_auto,q_auto/v1/Mfaouzia/19_ie3llg     
 category: Personal_Growth
 tags:
   - GoodHabits
@@ -18,7 +17,7 @@ tags:
   - SmallSteps
   - PositiveChange
   - DailyRoutine
-author: Syeda Maliha Marium
+author: Maliha 
 paginate: true
 ---
 Can you recall the phrase, 'Small achievements create big differences'? Wait! Wait! Another one, 'Rome wasn't built in a day.' There's a reason I bring up these two famous lines as we dive into this article. Later, I'll elaborate on the significance of these two phrases. During our childhood, we absorb numerous educational and motivational lines from our books. At that time, we may not fully grasp their significance. Yet, as we age and confront challenges in our journey to adulthood, these lines undergo a transformative impact on us.
