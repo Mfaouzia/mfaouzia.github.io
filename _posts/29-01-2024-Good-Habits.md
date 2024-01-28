@@ -1,9 +1,9 @@
 ---
-date: 2024-01-20 02:00
+date: 2024-01-29 00🕙
 layout: post
 title: Making good habits | Easy steps for big changes
 subtitle: Transform Your Daily Routine for a Happier You
-description: Discover the magic of small habits for significant life changes in this blog. Learn about G O O D H A B I T S – from Gratitude to Time management.
+description: Discover the magic of small habits for significant life changes in this article. Learn about G O O D H A B I T S – from Gratitude to Time management.
 image: >-
      https://res.cloudinary.com/dvjxri3cd/image/upload/v1706456091/Mfaouzia/19_ie3llg.png
 optimized_image: >-
