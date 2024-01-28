@@ -14,7 +14,7 @@ tags:
   - SmallSteps
   - PositiveChange
   - DailyRoutine
-author: Maliha 
+author: Mfaouzia
 paginate: true
 ---
 Can you recall the phrase, 'Small achievements create big differences'? Wait! Wait! Another one, 'Rome wasn't built in a day.' There's a reason I bring up these two famous lines as we dive into this article. Later, I'll elaborate on the significance of these two phrases. During our childhood, we absorb numerous educational and motivational lines from our books. At that time, we may not fully grasp their significance. Yet, as we age and confront challenges in our journey to adulthood, these lines undergo a transformative impact on us.
