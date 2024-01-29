@@ -34,7 +34,7 @@ Adoptive – Prepare yourself for all kinds of challenges in life. I dislike com
   
 <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/20.png"  width="300"/> 
 
-                                     Cut the carb from your diet with replacement of fruits and nuts
+Cut the carb from your diet with replacement of fruits and nuts
                
 * Investment – Invest your energy and actions in activities that bring benefits; refrain from wasting valuable time on backbiting and other negative pursuits.
 * Time – The most significant challenge in establishing goals and assessing productivity is effectively managing your time. For time management, this is the best method you can apply [time management](https://mfaouzia.top/time-management/)
