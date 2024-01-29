@@ -46,6 +46,7 @@ Adoptive – Prepare yourself for all kinds of challenges in life. I dislike com
   
 ## HOW THESE BIG CHANGES COME FROM?
 "Big changes with good habits" refers embracing positivity (good habits) in your daily life create significance in the long run. 
+
 1.**Gradual Advancement**: Do you believe that establishing small goals with short deadlines leads to more spontaneous achievements? In my perspective, aiming for gradual transformation rather than radical changes is more effective. For instance, when it comes to New Year's resolutions, having a 365-day timeframe often leads to a slower pace. On the contrary, setting up 15-30 day targets for significant changes might be more effective in maintaining focus and accomplishing the desired transformation. 
 
 2. **Ginormous transformation**: Just one good habit can initiate a catalyst for numerous good habits. The perfect example for this concept is morning walk. Morning walk can present the world and its natural surroundings with a different perspective. Without physical fitness, it can gift you with mental well-being, increased energy levels, better sleep patterns, mindfulness, better time management, a habit of setting daily goals, stress management, strengthened social connections. 
@@ -90,7 +91,7 @@ I would like to conclude this writing by incorporating words from one of my favo
 
 <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/24.png"  width="300"/>
 
-"Atomic Habits" by James Clear it’s a popular self-help book that explores the idea of making small changes to create remarkable results and the science and psychology behind habit formation. 
+*"Atomic Habits"* by James Clear it’s a popular self-help book that explores the idea of making small changes to create remarkable results and the science and psychology behind habit formation. 
 The book is structured around four key principles:
 -Cue: Identify the trigger or cue that initiates a habit.
 -Craving: Develop a strong desire or craving for the rewards associated with the habit.
