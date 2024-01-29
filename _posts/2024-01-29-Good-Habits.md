@@ -47,20 +47,20 @@ Cut the carb from your diet with replacement of fruits and nuts
 ## HOW THESE BIG CHANGES COME FROM?
 "Big changes with good habits" refers embracing positivity (good habits) in your daily life create significance in the long run. 
 
-1.**Gradual Advancement**: Do you believe that establishing small goals with short deadlines leads to more spontaneous achievements? In my perspective, aiming for gradual transformation rather than radical changes is more effective. For instance, when it comes to New Year's resolutions, having a 365-day timeframe often leads to a slower pace. On the contrary, setting up 15-30 day targets for significant changes might be more effective in maintaining focus and accomplishing the desired transformation. 
+**1.Gradual Advancement**: Do you believe that establishing small goals with short deadlines leads to more spontaneous achievements? In my perspective, aiming for gradual transformation rather than radical changes is more effective. For instance, when it comes to New Year's resolutions, having a 365-day timeframe often leads to a slower pace. On the contrary, setting up 15-30 day targets for significant changes might be more effective in maintaining focus and accomplishing the desired transformation. 
 
-2. **Ginormous transformation**: Just one good habit can initiate a catalyst for numerous good habits. The perfect example for this concept is morning walk. Morning walk can present the world and its natural surroundings with a different perspective. Without physical fitness, it can gift you with mental well-being, increased energy levels, better sleep patterns, mindfulness, better time management, a habit of setting daily goals, stress management, strengthened social connections. 
+**2.Ginormous transformation**: Just one good habit can initiate a catalyst for numerous good habits. The perfect example for this concept is morning walk. Morning walk can present the world and its natural surroundings with a different perspective. Without physical fitness, it can gift you with mental well-being, increased energy levels, better sleep patterns, mindfulness, better time management, a habit of setting daily goals, stress management, strengthened social connections. 
 
 <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/22.png"  width="300"/>
 
 Can you sense the profound positivity inherent in these morning moments with nature?
 
-3. **Mental and Physical balance**: The ultimate goal is to enhance your overall well-being in the long run and achieving big in life lies on our physical and mental health. Good habits contribute greatly to physical health, mental and emotional balance.
+**3.Mental and Physical balance**: The ultimate goal is to enhance your overall well-being in the long run and achieving big in life lies on our physical and mental health. Good habits contribute greatly to physical health, mental and emotional balance.
 
 ## HOW TO ACKNOWLEDGE THESE GOOD HABITS?
 There are some ninja techniques for exploring these habits in our life. 
--*Motivation*: Motivate yourself consistently by recognizing every instance of your accomplishments. Reflect on the reasons behind these achievements and identify the positive habits that contributed to their success. Embed these successful habits into your daily routine, reinforcing them regularly. Acknowledge the role of these habits in your accomplishments, creating a cycle of motivation and continuous improvement in your daily life.
--*Visual Reminders*: We are all familiar with how sticky notes assist us in remembering our habits and scheduled tasks. Writing specific notes, such as a friendly reminder for ourselves, expressions of appreciation for teachers, or memories that serve as visual cues, not only helps us recall important details but also serves as motivation. These reminders encourage us to engage in the cultivation of positive habits, exploring opportunities that lead to greater achievements in our lives.
+- *Motivation*: Motivate yourself consistently by recognizing every instance of your accomplishments. Reflect on the reasons behind these achievements and identify the positive habits that contributed to their success. Embed these successful habits into your daily routine, reinforcing them regularly. Acknowledge the role of these habits in your accomplishments, creating a cycle of motivation and continuous improvement in your daily life.
+- *Visual Reminders*: We are all familiar with how sticky notes assist us in remembering our habits and scheduled tasks. Writing specific notes, such as a friendly reminder for ourselves, expressions of appreciation for teachers, or memories that serve as visual cues, not only helps us recall important details but also serves as motivation. These reminders encourage us to engage in the cultivation of positive habits, exploring opportunities that lead to greater achievements in our lives.
 
 <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/23.png"  width="300"/>
 
