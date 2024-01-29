@@ -64,8 +64,7 @@ There are some ninja techniques for exploring these habits in our life.
 
 <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/23.png"  width="300"/>
 
-## Learn from Challenges: 
-Challenges serve as nourishment for continuous learning, fortifying oneself to achieve positive outcomes in life. Embracing these challenges, learning from them, and acknowledging them as preparation for future obstacles are integral components of the pathway to success. Recognizing the lessons within challenges empowers individuals to navigate future hurdles and contributes significantly to the strength required for success.
+- *Learn from Challenges*: Challenges serve as nourishment for continuous learning, fortifying oneself to achieve positive outcomes in life. Embracing these challenges, learning from them, and acknowledging them as preparation for future obstacles are integral components of the pathway to success. Recognizing the lessons within challenges empowers individuals to navigate future hurdles and contributes significantly to the strength required for success.
 Building up good habits is a beautiful journey of self-improvement. Celebrate the process and enjoy the positive transformations that come with cultivating good habits.
 
 ## HINDRANCE TO BUILD UP THE GOOD HABITS: 
@@ -74,6 +73,7 @@ Building up good habits is a beautiful journey of self-improvement. Celebrate th
 
 ## HOW ABOUT LIGHTNG UP OUR IDEAS BASED ON SOME RRESEARCHES:
 Let’s get a quick idea what researchers think about habit.
+
 *A neural link between affective understanding and interpersonal attraction - Raymond J. Dolan, Yannis Paloyelis, Geraint Rees*
 
 Investigates the neural mechanisms behind habit formation, particularly in the context of interpersonal attraction. The research explores how the brain links affective understanding (emotional understanding) and the development of habits in social relationships.
