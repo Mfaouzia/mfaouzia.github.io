@@ -19,7 +19,7 @@ paginate: true
 ---
 Hey there, friends and fellow dreamers! Welcome to my new blog, **Tech & Wisdom**. Grab a cup of your favorite brew, get comfy, and let me take you on a journey – *my journey*. In this blog, we'll learn about cool tech stuff, talk about life lessons, and explore how people live around the world.
 
-<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/2.png" alt="grab your braw" height="200" width="200"/> 
+<img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/2.png" alt="grab your brew" height="200" width="200"/> 
 
 ## The Dream Begins...
 Back in January 2022, I had an idea to start a blog. Sounds simple, right? But it was actually a big challenge! It wasn’t just about setting up a website; it was about being ready to share *Me* with the world. The idea struck me on a chilly evening, inspired by my love for technology and storytelling. And guess what? Two years later, here we are!
@@ -53,7 +53,7 @@ Here are some simple pieces of advice for the new year:
 
 <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/5.png" alt="dream" width="200"/> 
 
-And that's what I want to share with you all – *stay hopeful, stay positive. Dream big, work hard, and laugh often*.
+And that's what I want to share with all of you – *stay hopeful, stay positive. Dream big, work hard, and laugh often*.
 
 This year, let's remember these ideas. Let's stay hopeful, work on our dreams, and have fun. We can make this year great together. Let's dream big and help each other. 
 
