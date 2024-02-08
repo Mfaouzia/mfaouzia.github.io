@@ -46,20 +46,20 @@ At first, I was skeptical. I thought, *“How can waking up early and doing thes
 
 <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/11.jpg" alt="book" height="200" width="400"/> 
 
-The Miracle Morning taught me that how you start your day determines how you live your day. And how you live your day determines how you live your life. By making a few simple changes to my morning habits, I was able to make a huge impact on my time management and my life quality.
+"The Miracle Morning" taught me that how you start your day determines how you live your day, and how you live your day determines how you live your life. By making a few simple changes to my morning habits, I was able to have a huge impact on my time management and my quality of life
 
 ## The Art of Saying "NO"
 
-Another key lesson I learned about time management is the art of saying **"NO"**. 
-This was a hard one for me, because I’ve always been a *people-pleaser*. I wanted to help everyone, please everyone, and be liked by everyone. But I realized that by saying yes to everything and everyone, I was saying no to myself. I was sacrificing my own goals, dreams, and happiness for the sake of others.
+Another key lesson I learned about time management is the art of saying **"NO."**
+This was a  difficult lesson for me, because I’ve always been a *people-pleaser*. I wanted to help everyone, please everyone, and be liked by everyone. But I realized that by saying yes to everything and everyone, I was saying no to myself. I was sacrificing my own goals, dreams, and happiness for the sake of others.
 
-I learned that saying no is not selfish or rude, it’s necessary and respectful. It’s necessary because you have limited time and energy, and you need to use them wisely. It’s respectful because you’re being honest and realistic, and you’re not letting anyone down.
+I learned that saying no is not selfish or rude; it’s necessary and respectful. It’s necessary because you have limited time and energy, and you need to use them wisely. It’s respectful because you’re being honest and realistic, and you’re not letting anyone down.
 
 So, how do you say no without feeling guilty or offending anyone? Here are some tips I’ve learned:
 
-- **Be honest, but kind**: If you can’t do something, just say so. Don’t make up excuses or lie. People appreciate honesty, and they will respect you for it.
-- **Offer a rain check**: If you can’t do something now, but you’re interested in doing it later, suggest another time that works for you. This way, you’re not rejecting the person or the opportunity, you’re just postponing it.
-- **Keep it short and sweet**: Sometimes, all you need is a polite *No, thanks.* You don’t have to explain yourself or justify your decision. Just be courteous and firm.
+- **Be honest but kind**: If you can’t do something, just say so. Don’t make up excuses or lie. People appreciate honesty, and they will respect you for it.
+- **Offer a rain check**: If you can’t do something now, but you’re interested in doing it later, suggest another time that works for you. This way, you’re not rejecting the person or the opportunity; you’re just postponing it.
+- **Keep it short and sweet**: Sometimes, all you need is a polite *"No, thanks."* You don’t have to explain yourself or justify your decision. Just be courteous and firm.
 
 <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/8.png" alt="no" height="200" width="300"/> 
 
@@ -68,13 +68,13 @@ So, how do you say no without feeling guilty or offending anyone? Here are some 
 One of the most effective tools I use for time management is *micro-scheduling*. It is a technique where you plan your day in detail, breaking it down into small chunks of time and assigning specific tasks to each chunk. For example, instead of writing *‘work on project’* in your calendar, you write *‘work on project: research, outline, draft, edit, proofread’* and allocate a certain amount of time for each subtask.
 
 Micro-scheduling helps me in several ways. 
-- First, it helps me stay focused and avoid distractions. By having a clear plan for each hour of my day, I know exactly what I need to do and when I need to do it. I don’t waste time wondering what to do next, or switching between different tasks. I just follow my schedule and get things done.
+- First, it helps me stay focused and avoid distractions. By having a clear plan for each hour of my day, I know exactly what I need to do and when I need to do it. I don’t waste time wondering what to do next or switching between different tasks. I just follow my schedule and get things done.
 
 - Second, it helps me manage my energy and motivation. By breaking down big tasks into smaller ones, I make them more manageable and less overwhelming. I also get a sense of accomplishment and progress every time I complete a subtask. This boosts my confidence and keeps me motivated to continue.
 
-- Third, it helps me track my performance and improve my productivity. By setting a time limit for each task, I challenge myself to work faster and smarter. I also measure how long it actually takes me to finish each task, and compare it to my estimate. This way, I can identify where I’m doing well and where I need to improve. I can also adjust my schedule accordingly, and optimize my time.
+- Third, it helps me track my performance and improve my productivity. By setting a time limit for each task I challenge myself to work faster and smarter. I also measure how long it actually takes me to finish each task, and compare it to my estimate. This way, I can identify where I’m doing well and where I need to improve. I can also adjust my schedule accordingly and optimize my time.
 
-To create my micro-schedule, I use a simple notebook and a pen. I write down my daily goals, and then break them down into subtasks. I estimate how long each subtask will take, and assign it to a specific time slot. I also leave some buffer time between tasks, in case something takes longer than expected, or something unexpected comes up. I also schedule some breaks throughout the day, to recharge and relax.
+To create my micro-schedule, I use a simple notebook and a pen. I write down my daily goals and then break them down into subtasks. I estimate how long each subtask will take and assign it to a specific time slot. I also leave some buffer time between tasks, in case something takes longer than expected or something unexpected comes up. I also schedule some breaks throughout the day to recharge and relax.
 
 Here’s an example of what my micro-schedule looks like:
 
@@ -84,19 +84,19 @@ Here’s an example of what my micro-schedule looks like:
 
 There are many apps and gadgets that claim to help you with time management. I’ve tried some of them, and they can be useful and fun. But in the end, I realized that I don’t need fancy or complicated tools to manage my time. I just need the basics: a *notebook*, a *pen*, and an *alarm*.
 
-- A **notebook** and a **pen** are my best friends when it comes to time management. I use them to create my micro-schedule, to write down my thoughts and ideas, to make lists and notes, and to track my progress and results. I find writing by hand to be more effective and satisfying than typing on a screen. It helps me remember things better, and it gives me a sense of ownership and achievement.
+- A **notebook** and a **pen** are my best friends when it comes to time management. I use them to create my micro-schedule, write down my thoughts and ideas, make lists and notes, and track my progress and results. I find writing by hand more effective and satisfying than typing on a screen. It helps me remember things better and gives me a sense of ownership and achievement.
 
-- An **alarm** is my other essential tool for time management. I use it to remind me of my tasks, deadlines, and appointments. I also use it to set time limits for my tasks, and to signal when it’s time to take a break. An alarm helps me stay on track and on time, and it prevents me from losing track of time.
+- An **alarm** is my other essential tool for time management. I use it to remind me of my tasks, deadlines, and appointments. I also use it to set time limits for my tasks and to signal when it’s time to take a break. An alarm helps me stay on track and on time and prevents me from losing track of time.
 
 Of course, I also use some digital tools for certain things, like Google Calendar for scheduling my meetings and events. But for the most part, I stick to the basics. They are simple, reliable, and effective.
 
 ## My Mantra: Simplify and Focus
 
-The final secret I want to share with you about time management is my mantra: *simplify* and *focus*. This is the principle that guides all my decisions and actions when it comes to manage my time and my life.
+The final secret I want to share with you about time management is my mantra: *simplify* and *focus*. This is the principle that guides all my decisions and actions when it comes to managing my time and my life.
 
-- **Simplify** means to eliminate the unnecessary and keep the essential. It means to say no to the things that don’t matter, and yes to the things that do. It means to declutter my space, my mind, and my schedule, and to create more room for what matters.
+- **Simplify** means to eliminate the unnecessary and keep the essential. It means saying no to the things that don’t matter and yes to the things that do. It means decluttering my space, my mind, and my schedule, and creating more room for what matters.
 
-- **Focus** means to concentrate on one thing at a time, and to do it well. It means to avoid distractions and multitasking, and to give my full attention and effort to the task at hand. It means to set clear goals and priorities, and to follow them with discipline and determination.
+- **Focus** means to concentrate on one thing at a time and to do it well. It means to avoid distractions and multitasking and to give my full attention and effort to the task at hand. It means to set clear goals and priorities and to follow them with discipline and determination.
 
 <img src="https://raw.githubusercontent.com/Mfaouzia/Mfaouzia.github.io/master/src/img/january/12.jpg" alt="focus" height="200" width="300"/> 
 
@@ -108,6 +108,6 @@ If you’re looking for more inspiration and guidance on time management, I high
 
 ## And Finally...
 
-Time management isn't just about crossing off items on a list; it's about choosing a lifestyle that aligns with your goals and values. My transformation from a disorganized, forgetful person to someone who's got their act together (mostly!) has been quite the adventure. Now, it's your turn. How do you handle the ticking clock? Let's start a conversation by send me message.
+Time management isn't just about crossing off items on a list; it's about choosing a lifestyle that aligns with your goals and values. My transformation from a disorganized, forgetful person to someone who's got their act together (mostly!) has been quite the adventure. Now, it's your turn. How do you handle the ticking clock? Let's start a conversation by sending me a message.
 
 Thank you so much for reading! If you find this article helpful, please share it, and follow me on Instagram for more stories and tips on managing the wild ride we call life. Can't wait to hear your thoughts!
