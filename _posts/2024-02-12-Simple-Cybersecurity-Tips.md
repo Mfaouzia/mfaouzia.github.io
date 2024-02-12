@@ -1,5 +1,5 @@
 ---
-date: 2024-02-13 00🕙
+date: 2024-02-12 00🕙
 layout: post
 title: Simple Cybersecurity Tips
 subtitle: Keeping Your Online Life Safe
@@ -47,8 +47,8 @@ It's important to update the software on all of your devices, including your com
 To practice safe browsing, follow these tips:
 
 - **Use websites with HTTPS enabled as they are more secure than HTTP sites**. You can identify HTTPS sites by a lock icon or a green bar in your browser's address bar. These sites encrypt your traffic, preventing hackers from intercepting or modifying it.
-- Install reputable browser extensions like HTTPS Everywhere, Privacy Badger or uBlock Origin. These extensions can enhance your security and privacy by encrypting your traffic, blocking trackers and filtering ads.
-- Avoid clicking on unknown or suspicious links or attachments, which can redirect you to malicious websites or download malware onto your device. You can hover over a link to see its destination or use a link scanner, such as VirusTotal, to check its safety.
+- **Install reputable browser extensions like HTTPS Everywhere, Privacy Badger or uBlock Origin**. These extensions can enhance your security and privacy by encrypting your traffic, blocking trackers and filtering ads.
+- **Avoid clicking on unknown or suspicious links or attachments, which can redirect you to malicious websites or download malware onto your device**. You can hover over a link to see its destination or use a link scanner, such as VirusTotal, to check its safety.
 
 ## Phishing Awareness
 **Phishing** is a common and effective method used by hackers to steal information or infect devices. These scams can come in various forms, such as *fake emails, text messages, phone call*s or *websites* that appear trustworthy but are designed to deceive.
@@ -64,7 +64,7 @@ To protect yourself on public Wi-Fi, avoid accessing sensitive information, log 
 **Data backup** involves creating copies of your data and storing them somewhere else, like an external hard drive, USB flash drive or cloud service. This is important to prevent loss or damage from ransomware attacks or hardware failures.
 Ransomware encrypts data and demands a ransom for decryption, while hardware failures can lead to permanent or partial data loss. To back up your data effectively, follow best practices:
 
-- To ensure redundancy in your backup strategy, it is recommended to use both local and cloud-based backup solutions. A local backup solution involves storing your data on physical devices like *external hard drives, USB flash drives* or *CDs/DVDs*. On the other hand, a cloud-based backup solution stores your data on remote servers such as *Google Drive, Dropbox* or *iCloud*.
+- To ensure redundancy in your backup strategy, it is recommended to use **both local** and **cloud-based backup** solutions. A local backup solution involves storing your data on physical devices like *external hard drives, USB flash drives* or *CDs/DVDs*. On the other hand, a cloud-based backup solution stores your data on remote servers such as *Google Drive, Dropbox* or *iCloud*.
 
 - It is important to backup your data frequently and regularly, depending on how often you create or modify your data. To simplify this process, you can use backup software such as [EaseUS Todo Backup](https://www.easeus.com/backup-software/tb-free.html), [Acronis True Image](https://www.acronis.com/) or [Macrium Reflect](https://www.macrium.com/), which allow you to automate and schedule your backups.
 
@@ -73,7 +73,7 @@ While **social media platforms** offer great opportunities for connection and sh
 
 To protect your privacy on social media, it is crucial to adjust your privacy settings on each platform in order to control who can view your profile, posts, photos, friends and other personal information. Additionally, it is advisable to limit the amount of personal details you share on social media, such as your full name, date of birth, address, phone number or email. Be cautious when accepting friend requests from unknown individuals and avoid clicking on links or messages from unfamiliar sources.
 
-# Conclusion
+## Conclusion
 In conclusion, cybersecurity plays a crucial role in our online lives, necessitating the adoption of measures to protect ourselves and our data from cyber threats. By following the simple yet effective cybersecurity tips discussed in this article, we can enhance our security and privacy, while minimizing the risks of data breaches, identity theft and malware attacks. Furthermore, we should share these tips with our friends and family to promote a safer online environment for everyone.
 
 However, it is important to understand that cybersecurity is not a one-time action, but an ongoing process that requires us to stay informed about the latest cyber threats and trends and accordingly adjust our security practices.
