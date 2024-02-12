@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Musi
-slug: music
-description: A category for music related posts.
+title: Technology
+slug: technology
+description: A category for technology related posts.
 ---
