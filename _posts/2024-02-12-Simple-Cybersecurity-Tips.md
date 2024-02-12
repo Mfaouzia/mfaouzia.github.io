@@ -1,5 +1,5 @@
 ---
-date: 2024-02-12 00🕙
+date: 2024-02-12 01:00🕙
 layout: post
 title: Simple Cybersecurity Tips
 subtitle: Keeping Your Online Life Safe
