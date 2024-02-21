@@ -79,15 +79,15 @@ To master Chinese tones, you need to pay attention to the pitch and duration of 
 
 **Stroke order** is the order and direction in which you write the strokes of a Chinese character. Stroke order is important for writing Chinese characters correctly and beautifully, as well as for reading and recognizing handwritten characters. Stroke order follows some basic rules and principles, such as:
 
-✅ Write from left to right, top to bottom, and outside to inside.
+✅Write from left to right, top to bottom, and outside to inside.
 
-✅ Write horizontal strokes before vertical strokes, and upper strokes before lower strokes.
+✅Write horizontal strokes before vertical strokes, and upper strokes before lower strokes.
 
-✅ Write the left part of a character before the right part, and the upper part before the lower part.
+✅Write the left part of a character before the right part, and the upper part before the lower part.
 
-- Write the enclosing strokes last, and leave a gap at the bottom right corner.
+✅Write the enclosing strokes last, and leave a gap at the bottom right corner.
 
-- Write the crossing strokes in the order of , /, - and |.
+✅Write the crossing strokes in the order of , /, - and | .
 
 To practice stroke order, you can use some examples and exercises, such as:
 
