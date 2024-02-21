@@ -85,9 +85,9 @@ To master Chinese tones, you need to pay attention to the pitch and duration of 
 
 ✅ Write the left part of a character before the right part, and the upper part before the lower part.
 
-✅ Write the enclosing strokes last, and leave a gap at the bottom right corner.
+- Write the enclosing strokes last, and leave a gap at the bottom right corner.
 
-✅ Write the crossing strokes in the order of , /, -, and |.
+- Write the crossing strokes in the order of , /, - and |.
 
 To practice stroke order, you can use some examples and exercises, such as:
 
