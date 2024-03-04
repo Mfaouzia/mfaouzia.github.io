@@ -1,14 +1,14 @@
 ---
-date: 2024-03-04 00🕙
+date: 2024-03-04 01:00🕙
 layout: post
 title: Women In Computers
 subtitle: Their Success Stories
-description:  This article celebrates the inspiring success stories of women who have excelled in computing, from pioneers to trailblazers to rising stars. It also explores the challenges and opportunities faced by women in the field, and highlights some of the ways to support and empower them.
+description: This article celebrates the inspiring success stories of women who have excelled in computing, from pioneers to trailblazers to rising stars. It also explores the challenges and opportunities faced by women in the field, and highlights some of the ways to support and empower them.
 image: >-
      https://res.cloudinary.com/dvjxri3cd/image/upload/v1709563178/Mfaouzia/student-849828_upllzp.jpg
 optimized_image: >-
      https://res.cloudinary.com/dvjxri3cd/image/upload/f_auto,q_auto/v1/Mfaouzia/student-849828_upllzp
-category:technology 
+category: technology 
 tags:
   - WomenInTech
   - ComputerScience
