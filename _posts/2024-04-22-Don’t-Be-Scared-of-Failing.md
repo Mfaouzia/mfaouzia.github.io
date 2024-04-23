@@ -61,4 +61,5 @@ To truly learn from failures, you need the right mindset. Here's how I've worked
 - **Embracing Challenges**: I try to see challenges as opportunities to learn and grow, not as obstacles. 
 - **Normalizing Mistakes**: It's normal to make mistakes when you're trying to learn or do something new. It can be intimidating. However, remembering that even the most successful people have experienced failure at some point helps me feel less worried about making mistakes.
 - **Staying Positive**: Maintaining a positive attitude is key. I focus on the positive aspects of what I'm doing and the progress I'm making. This keeps me motivated and makes it easier to persevere, even when facing difficulties.
+  
 We'll explore further how failure can also influence professional development in tomorrow's discussion, so I look forward to seeing you then for Section 3: The Role of Failure in Professional Growth!
