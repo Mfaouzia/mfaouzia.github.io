@@ -13,7 +13,7 @@ tags:
   - Privacy Concerns
   - Predictive Algorithms
   - Google Technology
-author: Zaheer Anwar
+author: Zaheer
 paginate: true
 ---
 In the age of digital connectivity, concerns about privacy and data usage have become increasingly prevalent. Among the various technological giants, Google stands out as a ubiquitous presence in our daily lives. From search queries to email exchanges, Google seemingly knows more about us than we might realize. One of the most persistent rumors surrounding Google is the idea that it listens to our conversations, using the information to customize ads and predict our thoughts. But how much truth is there to this claim?
