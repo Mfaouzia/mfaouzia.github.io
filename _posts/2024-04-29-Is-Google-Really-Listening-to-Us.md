@@ -1,5 +1,5 @@
 ---
-date: 2024-04-30 01:00🕙
+date: 2024-04-29 01:00🕙
 layout: post
 title: Is Google Really Listening to Us? The Truth Behind Predictive Algorithms
 subtitle: Understanding Google's Predictive Technology
