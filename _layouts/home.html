@@ -100,7 +100,11 @@ layout: main
         {% include pagination-home.html %}
     {% endif %}
 </main>
+<!-- Add AdSense Code Below -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7802117719448940"
+     crossorigin="anonymous"></script>
 
+{% assign social_urls = '' %}
 {% assign social_urls = '' %}
 {% if site.github_username %}
     {% assign social_urls = social_urls | append: '"https://github.com/' | append: site.github_username | append: '",' %}
